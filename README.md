@@ -1,6 +1,6 @@
 # Welcome to DevZkund's Profile! 👋
 
-Hey there! I'm @DevZkund, a passionate developer interested in building awesome projects and learning new technologies. Here's a bit about me:
+Hey there! I'm @Digital_Soul_Crafter, a passionate developer interested in building awesome projects and learning new technologies. Here's a bit about me:
 
 - 👀 I’m interested in web development, software engineering, and all things tech-related.
 - 🌱 I’m currently learning the MERN stack (MongoDB, Express.js, React.js, Node.js) to create dynamic and interactive web applications.

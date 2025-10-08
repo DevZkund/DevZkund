@@ -1,4 +1,4 @@
-# Welcome to DevZkund's Profile! 👋
+# Welcome to Digital_Soul_Crafter's Profile! 👋
 
 Hey there! I'm @Digital_Soul_Crafter, a passionate developer interested in building awesome projects and learning new technologies. Here's a bit about me:
 
@@ -16,6 +16,6 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
 
 
 <!---
-DevZkund/DevZkund is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Digital_Soul_Crafter/DevDigital_Soul_CrafterZkund is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
